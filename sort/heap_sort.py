@@ -46,9 +46,6 @@ def heap_sort(a):
 
 def main():
     # root is at index 1
-    # it can be at index zero but see here: https://www.quora.com/Why-do-indexes-for-heaps-start-at-1
-    # and: https://stackoverflow.com/questions/22900388/why-in-a-heap-implemented-by-array-the-index-0-is-left-unused
-
     a = [None, 99, 0, 5, 20, 123, 0, -1, 72, 21, 22, 13, 8, 7, 67, 29, 1, 2, 4]
     heap_sort(a)
     print(a[1:])

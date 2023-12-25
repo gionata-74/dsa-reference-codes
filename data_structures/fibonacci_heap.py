@@ -1,5 +1,3 @@
-# derived from https://github.com/danielborowski/fibonacci-heap-python with permission
-
 from collections import deque
 import math
 

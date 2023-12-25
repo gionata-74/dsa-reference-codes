@@ -1,7 +1,6 @@
 infinity = float("inf")
 
 def make_graph():
-    # identical graph as the YouTube video: https://youtu.be/obWXjtg0L64
     # tuple = (cost, to_node)
     return {
         'S': [(8, 'E'), (10, 'A')],

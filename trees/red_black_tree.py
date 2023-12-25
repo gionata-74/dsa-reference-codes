@@ -1,5 +1,3 @@
-# source: https://a.co/d/7oRsCT2
-
 from collections import deque
 
 BLACK = True
